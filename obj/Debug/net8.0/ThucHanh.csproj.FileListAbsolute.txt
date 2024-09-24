@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\ThucHanh\bin\Debug\net8.0\ThucHanh.exe
+C:\Users\pc\Desktop\Module1\ThucHanh\bin\Debug\net8.0\ThucHanh.deps.json
+C:\Users\pc\Desktop\Module1\ThucHanh\bin\Debug\net8.0\ThucHanh.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\ThucHanh\bin\Debug\net8.0\ThucHanh.dll
+C:\Users\pc\Desktop\Module1\ThucHanh\bin\Debug\net8.0\ThucHanh.pdb
+C:\Users\pc\Desktop\Module1\ThucHanh\obj\Debug\net8.0\ThucHanh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\ThucHanh\obj\Debug\net8.0\ThucHanh.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\ThucHanh\obj\Debug\net8.0\ThucHanh.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\ThucHanh\obj\Debug\net8.0\ThucHanh.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\ThucHanh\obj\Debug\net8.0\ThucHanh.sourcelink.json
+C:\Users\pc\Desktop\Module1\ThucHanh\obj\Debug\net8.0\ThucHanh.dll
+C:\Users\pc\Desktop\Module1\ThucHanh\obj\Debug\net8.0\refint\ThucHanh.dll
+C:\Users\pc\Desktop\Module1\ThucHanh\obj\Debug\net8.0\ThucHanh.pdb
+C:\Users\pc\Desktop\Module1\ThucHanh\obj\Debug\net8.0\ThucHanh.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\ThucHanh\obj\Debug\net8.0\ref\ThucHanh.dll
